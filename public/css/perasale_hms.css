@@ -1,0 +1,66 @@
+.modal-header{
+	background: #000000;
+	color: white;
+}
+.btn-default{
+	border-radius:0;
+}
+.btn-info{
+	border-radius:0;
+	background: #02CD02;
+	border-color:#02CD02;
+}
+.btn-success{
+	border-radius:0;
+}
+.btn-primary{
+	border-radius:0;
+}
+.btn-danger{
+	border-radius:0;
+}
+.btn-dark{
+	border-radius:0;
+}
+
+
+.close{
+	opacity: .5;
+	text-shadow: 0 0 0 #fff;
+	color: white;
+}
+
+.modal-footer{
+	background: #000000;
+	color: white;
+}
+.alert-info{
+	background-color:#02CD02;
+	border-color:#02CD02;
+}
+/*.nav_menu{
+	background: #028cbd;
+}
+.nav.navbar-nav>li>a{
+color: white !important;
+}
+.navbar-nav .open .dropdown-menu {
+	background: #028cbd;
+}
+.dropdown-menu>li>a{
+	color:white;
+}
+.top_nav .nav .open>a, .top_nav .nav .open>a:focus, .top_nav .nav .open>a:hover, .top_nav .nav>li>a:focus, .top_nav .nav>li>a:hover {
+    background: #028cbd;
+}
+.nav_title {
+	background: #1dade0;
+}
+.left_col{
+	background: #028cbd;
+}
+*/
+
+.dataTable tbody tr td{
+	vertical-align: middle;
+}
